@@ -53,18 +53,18 @@ Raw CSV data was imported into MySQL and queried directly — no shortcuts throu
 
 | Category | Top Product | Total Sales |
 |---|---|---|
-| Technology | Canon imageCLASS 2200 Advanced Copier | ₹61,599.82 |
-| Office Supplies | Fellowes PB500 Electric Punch Binding Machine | ₹27,453.38 |
-| Furniture | HON 5400 Series Task Chairs for Big and Tall | ₹21,870.58 |
+| Technology | Canon imageCLASS 2200 Advanced Copier | $61,599.82 |
+| Office Supplies | Fellowes PB500 Electric Punch Binding Machine | $27,453.38 |
+| Furniture | HON 5400 Series Task Chairs for Big and Tall | $21,870.58 |
 
 ### Sample Insight — Year-over-Year Sales Growth
 
 | Year | Total Sales | YoY Growth |
 |---|---|---|
-| 2014 | ₹481,763.80 | — |
-| 2015 | ₹464,426.24 | -3.6% |
-| 2016 | ₹601,265.26 | **+29.46%** |
-| 2017 | ₹724,994.56 | +20.58% |
+| 2014 | $481,763.80 | — |
+| 2015 | $464,426.24 | -3.6% |
+| 2016 | $601,265.26 | **+29.46%** |
+| 2017 | $724,994.56 | +20.58% |
 
 ---
 
@@ -101,17 +101,17 @@ Customers ---- Orders (Fact Table) ---- Region_Targets
 **At a glance:**
 | KPI | Value |
 |---|---|
-| Total Sales | ₹2.27M |
-| Total Profit | ₹282.86K |
+| Total Sales | $2.27M |
+| Total Profit | $282.86K |
 | Profit Margin | 12.45% |
-| Average Order Value | ₹460.85 |
+| Average Order Value | $460.85 |
 
 ---
 
 ## 💡 Key Insights
 
 ### 1. Technology leads, but not by a landslide
-Technology brings in the highest sales (₹0.84M), narrowly ahead of Furniture (₹0.73M) and Office Supplies (₹0.70M) — the business isn't over-reliant on a single category.
+Technology brings in the highest sales ($0.84M), narrowly ahead of Furniture ($0.73M) and Office Supplies ($0.70M) — the business isn't over-reliant on a single category.
 
 ### 2. 2016 was the turning point
 After a slight dip in 2015 (-3.6%), sales grew **29.46% in 2016** and continued growing **20.58% in 2017** — suggesting whatever changed operationally in 2016 is worth digging into further.
